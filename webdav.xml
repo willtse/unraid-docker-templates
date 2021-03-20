@@ -23,7 +23,7 @@
       <Port>
         <Value>Web Connect Port</Value>
         <HostPort>8005</HostPort>
-        <ContainerPort>8005</ContainerPort>
+        <ContainerPort>80</ContainerPort>
         <Protocol>tcp</Protocol>
       </Port>
     </Publish>
